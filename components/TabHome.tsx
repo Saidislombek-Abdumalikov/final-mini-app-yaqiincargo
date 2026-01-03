@@ -201,7 +201,7 @@ const TabHome: React.FC<TabHomeProps> = ({ onNavigate }) => {
       {/* Quick Links - COMPACT ROW LAYOUT */}
       <div className="grid grid-cols-2 gap-3">
           <a 
-            href="https://t.me/topcargo_admin"
+            href="https://t.me/yaqiin"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white p-4 rounded-[20px] shadow-soft border border-gray-50 flex items-center gap-3 active:scale-95 transition-all hover:bg-gray-50"
