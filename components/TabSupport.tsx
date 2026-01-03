@@ -12,7 +12,7 @@ const SUGGESTIONS_UZ = [
 
 const TabSupport: React.FC = () => {
   const [messages, setMessages] = useState<ChatMessage[]>([
-    { role: 'model', text: 'Assalomu alaykum! Men TOP CARGO AI yordamchisiman. Sizga qanday yordam bera olaman?' }
+    { role: 'model', text: 'Assalomu alaykum! Men YAQIIN CARGO AI yordamchisiman. Sizga qanday yordam bera olaman?' }
   ]);
   const [input, setInput] = useState('');
   const [isTyping, setIsTyping] = useState(false);
@@ -78,7 +78,7 @@ const TabSupport: React.FC = () => {
         </div>
 
         <a 
-            href="https://t.me/topcargo_admin" 
+            href="https://t.me/yaqiin" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-primary hover:bg-primary-dark text-white text-xs font-bold px-4 py-2 rounded-xl transition-colors flex items-center gap-1 shadow-sm active:scale-95"
