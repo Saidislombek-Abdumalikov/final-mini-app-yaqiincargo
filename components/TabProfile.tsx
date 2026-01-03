@@ -36,7 +36,7 @@ const TabProfile: React.FC<TabProfileProps> = ({ onLogout }) => {
       {/* Settings List */}
       <div className="bg-white rounded-[32px] shadow-soft border border-gray-100 overflow-hidden">
         <a 
-            href="https://t.me/topcargo_admin" 
+            href="https://t.me/yaqiin" 
             target="_blank" 
             rel="noopener noreferrer"
             className="w-full p-5 flex items-center justify-between border-b border-gray-50 hover:bg-gray-50 transition-colors group"
